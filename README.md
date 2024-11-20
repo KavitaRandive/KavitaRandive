@@ -1,3 +1,4 @@
+![logo](https://github.com/KavitaRandive/KavitaRandive/blob/main/Github_Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Kavita</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_h4Sz6rPhDM10Yii0oE_N_R3oH6EhmKR_vMg83tMe3Z3FbWWzXez6lnjRC5ItR6sF8U&usqp=CAU">
